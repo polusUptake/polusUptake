@@ -1,5 +1,5 @@
 # About Me:
-If it's related to solving weird issues, i'll be there
+Solving weird issues? I'll be there
 
 
 # 💻 Tech Stack:
@@ -9,4 +9,4 @@ If it's related to solving weird issues, i'll be there
 ![](https://streak-stats.demolab.com/?user=PolusUptake&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PolusUptake&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
