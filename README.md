@@ -1,5 +1,5 @@
 # About Me:
-Solving weird issues? I'll be there
+Debugging weird issues? I'll be there
 
 
 # 💻 Tech Stack:
